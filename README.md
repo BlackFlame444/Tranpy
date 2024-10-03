@@ -1,4 +1,4 @@
-# Tranpy✷
+# Tranpy
 
 Tranpy is a Python-based file translation tool designed to tackle translations that other bots might not handle as effectively. This is my first Python package, developed for personal use, and I hope it proves helpful to others seeking similar functionality.
 
@@ -31,20 +31,18 @@ To install Tranpy, follow these steps:
    ```bash
    pip install tranpy
 
-	3.	Once installed, you can run Tranpy from the command line: tranpy
+	3.	Once installed, you can run Tranpy from the command line:tranpy
 
 ## Usage
 
 To start translating, simply run:
+
 tranpy
 
 Follow the on-screen prompts to input text, file paths, or URLs for translation.
 
 
-
-
-
-## LICENSE
+## License
 
 ```markdown
 MIT License
