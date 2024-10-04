@@ -21,7 +21,7 @@ Tranpy is developed and tested on the following operating systems:
 - macOS
 - Windows (via command line)
 
-## Installation
+## Installation & Usage
 
 To install Tranpy, follow these steps:
 
@@ -31,13 +31,10 @@ To install Tranpy, follow these steps:
    ```bash
    pip install tranpy
 
-	3.	Once installed, you can run Tranpy from the command line:tranpy
 
-## Usage
-
-To start translating, simply run:
-
-tranpy
+Once installed, you can run Tranpy from the command line to start translating. Simply like:    
+    
+    tranpy
 
 Follow the on-screen prompts to input text, file paths, or URLs for translation.
 
@@ -47,7 +44,7 @@ Follow the on-screen prompts to input text, file paths, or URLs for translation.
 ```markdown
 MIT License
 
-Copyright© 2024 Jason Zarri | Blackflame44
+Copyright© 2024 Jason Zarri | Blackflame444
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
